@@ -1,2 +1,2 @@
 # Tkinter
- Trying out tkinter.
+ Playing with tkinter.
